@@ -1,0 +1,11 @@
+{
+    "javaHome": "",
+    "vmArgs": [],
+    "program": "your_file",
+    "programArgs": [],
+    "useJavaw": false,
+    "cwd": "",
+    "useExe": false,
+    "log": false,
+    "logDir": ""
+}

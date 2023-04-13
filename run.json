@@ -1,0 +1,8 @@
+{
+    "useJavaw": true,
+    "program": "JEdit.jar",
+    "cwd":"D:/Documentos/Coding/Java/JEdit/out/artifacts/Lunnaris_editor_jar",
+    "useExe": false,
+    "log": true,
+    "logDir": "test"
+}
