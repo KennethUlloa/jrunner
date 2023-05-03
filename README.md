@@ -5,7 +5,7 @@ It's intended to provide more flexibility when it comes to launch java applicati
 ## Dependencies
 1. Pyinstaller
 ```Powershell
-$ pip install pyinstaller 
+pip install pyinstaller 
 ```
 
 ## Compilation
