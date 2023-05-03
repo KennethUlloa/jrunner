@@ -10,12 +10,12 @@ $ pip install pyinstaller
 
 ## Compilation
 ```Powershell
-$ pyinstaller --onefile -i jrunner.ico jrunner.py 
+pyinstaller --onefile -i jrunner.ico jrunner.py 
 ```
 
 ## Basic usage
 ```Powershell
-$ jrunner [file] [options...]
+jrunner [file] [options...]
 ```
 
 ## Run file template
@@ -23,7 +23,7 @@ $ jrunner [file] [options...]
 You can use the following template or create one (-create command)
 
 ```Powershell
-$ jrunner -create
+jrunner -create
 ```
 ```json
 {
